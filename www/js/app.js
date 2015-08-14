@@ -2,7 +2,7 @@ var ModelItem = Backbone.Model.extend({
     defaults: {
 		tinCanReporting: true,
 		lrsendpoint: '',
-		lrsversion: '',
+		lrsversion: '1.0.0',
 		lrskey: '',
 		lrssecret: '',
 		lrsusername: '',
